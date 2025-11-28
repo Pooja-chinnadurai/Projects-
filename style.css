@@ -1,0 +1,53 @@
+.project-section {
+  padding: 60px 20px;
+  background: #f9fafb;
+  display: flex;
+  justify-content: center;
+}
+
+.project-container {
+  max-width: 900px;
+  width: 100%;
+}
+
+h1 {
+  font-size: 32px;
+  margin-bottom: 10px;
+  color: #222;
+}
+
+.project-tagline {
+  font-size: 18px;
+  color: #555;
+  margin-bottom: 30px;
+}
+
+.project-box {
+  background: white;
+  padding: 25px;
+  margin: 20px 0;
+  border-radius: 10px;
+  box-shadow: 0 4px 15px rgba(0,0,0,0.05);
+}
+
+.project-box h2 {
+  margin-bottom: 10px;
+  color: #333;
+}
+
+ul, ol {
+  margin-left: 20px;
+  color: #444;
+}
+
+.project-outcome {
+  background: #e7f5ff;
+  padding: 25px;
+  border-left: 5px solid #0077ff;
+  margin-top: 30px;
+  border-radius: 10px;
+}
+
+.project-outcome h2 {
+  color: #0059c9;
+}
